@@ -25,7 +25,7 @@ const router = express.Router()
 
 
 //―――――――――――――――――――――――――――――――――――――――――― ┏  Info  ┓ ―――――――――――――――――――――――――――――――――――――――――― \\
-//  >Creator Alip MY
+//  >Creator Ryasya MY
 //  >Jangan Jual Sc Dan Buang Tulisan ini
 //  >Guna Dengan Bijak
 //  >Kalau mahu reupload jangan lupa creadit Ya :)
